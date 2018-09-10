@@ -1,0 +1,81 @@
+% XeLaTeX can use any Mac OS X font. See the setromanfont command below.
+% Input to XeLaTeX is full Unicode, so Unicode characters can be typed directly into the source.
+
+% The next lines tell TeXShop to typeset with xelatex, and to open and save the source with Unicode encoding.
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[12pt, twoside]{book}
+\usepackage[bottom=1.25in]{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper}                   % ... or a4paper or a5paper or ... ....
+%\geometry{landscape}                % Activate for for rotated page geometry
+\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{float}
+\usepackage{pgfornament}
+\usepackage{multirow}
+\usepackage{lscape}
+\usepackage{pdfpages}
+\usepackage{emptypage}
+\usepackage{fontspec,xltxtra,xunicode}
+%\defaultfontfeatures{Mapping=tex-text}
+\setromanfont[Mapping=tex-text]{Hoefler Text}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Gill Sans}
+\setmonofont[Scale=MatchLowercase]{Andale Mono}
+
+\usepackage{polyglossia}
+\XeTeXlinebreaklocale "th"
+\XeTeXlinebreakskip = 0pt plus 1pt %
+\defaultfontfeatures{Scale=1.23}
+\setdefaultlanguage{thai}
+%\newfontfamily{\thaifont}{TH SarabunPSK}
+\newfontfamily{\thaifont}{TH Sarabun New}
+
+% Thai Sarabun font declaration and settings
+\fontspec[				
+ItalicFont={TH Sarabun New Italic},
+BoldFont={TH Sarabun New Bold},
+BoldItalicFont={TH Sarabun New Bold Italic},
+]{TH Sarabun New}
+
+\title{คู่มือสนามบินส่วนบุคคล \\
+	สนามบินขนงพระ \\
+	Private Aerodrome Manual \\
+	Khanong Phra Airport (KNP) \\
+}
+
+\author{ \pgfornament[color=red!40!black, width=5cm]{88} \\
+			\LARGE{อนุทิน ชาญวีรกูล}  \\
+			\pgfornament[color=red!40!black, width=5cm]{88} \\ \\ \\
+}
+			
+\date{\Large{สิงหาคม 2561}}    % Activate to display a given date or no date
+
+\begin{document}
+
+\maketitle				% Cover page
+\newpage\mbox{}\thispagestyle{empty}\newpage
+\pagenumbering{roman} 	% Use Roman page numbering
+\include{Preface}
+\include{List_of_Effective_Pages}
+\tableofcontents		% Table of Contents
+\listoftables			% List of Tables
+\listoffigures			% List of Figures
+\newpage\mbox{}\thispagestyle{empty}\newpage
+\clearpage				% Clear Roman page numbering
+\pagenumbering{arabic} 	%Use Arabic page numbering for contents
+\include{Section1_General_Information}				% Chapter 1: Manual General Information 
+\include{Section2_Aerodrome_Site_Details}			% Chapter 2: Aerodrome Site Details
+\include{Section3_Aerodrome_data_for_AIS_Report}	% Chapter 3: Aerodrome Data for AIS Report
+\include{Section4_Program_and_Procedures_for_Operating_Private_Airport} % Chapter 4: Programs and Procedures for Operating Private Aerodrome
+\include{Section5_Aerodrome_Administration} 			% Chapter 5: Aerodrome Administration
+\include{Appendix_A_KNP_Temporary_Airfield_Permit}	% ผนวก ก. ใบอนุญาตที่ขึ้นลงชั่วคราวอากาศยานขนงพระ
+\include{Appendix_B_Land_Deeds_and_Consent_Forms}	% ผนวก ข. เอกสารสิทธิ์และหนังสือยินยอมให้ใช้ประโยชน์ที่ดินที่ตั้งสนามบินขนงพระ
+\include{Appendix_C_Engineering_Site_Survey_Report}	% ผนวก ค. รายงานการสำรวจสนามบินส่วนบุคคลขนงพระ โดยวิศวกร
+\include{Appendix_D_KNP_Runway_Design_Details}	% ผนวก ง. ข้อมูลรายละเอียดของ Runway ขนงพระ
+\include{Appendix_E_Airport_Inspection_Report_Form}	% ผนวก จ. แบบฟอร์มรายงานการตรวจสนามบิน
+\include{Appendix_F_CAAT_Bird_Strike_Report_Form}	% ผนวก ฉ. CAAT Bird Strike Report Form
+
+\end{document} 
