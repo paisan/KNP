@@ -1,0 +1,137 @@
+\select@language {thai}
+\contentsline {chapter}{\numberline {1}ข้อมูลทั่วไป \\ General Information}{1}
+\contentsline {section}{\numberline {1.1}วัตถุประสงค์และขอบเขตของคู่มือสนามบิน}{1}
+\contentsline {section}{\numberline {1.2}ข้อกฎหมายที่เกี่ยวข้องกับการขอและออกใบอนุญาตสนามบินส่วนบุคคล }{1}
+\contentsline {section}{\numberline {1.3}เงื่อนไขการอนุญาตใช้สนามบิน (Conditions of Use)}{2}
+\contentsline {subsection}{\numberline {1.3.1}รายละเอียดแสดงช่วงเวลาทำงานของสนามบินส่วนบุคคล}{2}
+\contentsline {subsection}{\numberline {1.3.2}รายละเอียดประประเภทของกฎการจราจรที่ต้องปฏิบัติ}{2}
+\contentsline {subsection}{\numberline {1.3.3}รายละเอียดประประเภททางวิ่งที่ให้บริการ}{2}
+\contentsline {subsection}{\numberline {1.3.4}รายละเอียดที่แสดงว่าสนามบินส่วนบุคคลไม่ได้ปิดให้บริการแก่บุคคลภายนอก}{2}
+\contentsline {subsection}{\numberline {1.3.5}ระบบการบันทึกข้อมูลของอากาศยาน (Recordings 0f Aircraft Movements) ที่แสดงถึงเที่ยวบินขาเข้าและขาออก}{2}
+\contentsline {subsection}{\numberline {1.3.6}กรณีมีเที่ยวบินทำการบิน ณ สนามบินขนงพระ โดยไม่ได้รับอนุญาต}{3}
+\contentsline {section}{\numberline {1.4}หน้าที่และความรับผิดชอบของผู้ได้รับใบอนุญาตจัดตั้งเป็นสนามบินส่วนบุคคล (Private Aerodrome Operator)}{3}
+\contentsline {chapter}{\numberline {2}ข้อมูลของสถานที่ตั้งสนามบิน \\ Aerodrome Site Details}{5}
+\contentsline {section}{\numberline {2.1}แผนผังสนามบินที่แสดงสิ่งอำนวยความสะดวกหลัก}{5}
+\contentsline {subsection}{\numberline {2.1.1}แผนผังสนามบินและสิ่งอำนวยความสะดวกหลัก}{5}
+\contentsline {subsection}{\numberline {2.1.2}แผนผังแสดงสิ่งอำนวยความสะดวกของสนามบิน}{6}
+\contentsline {section}{\numberline {2.2}แผนผังสนามบินแสดงแนวเขตสนามบิน}{6}
+\contentsline {section}{\numberline {2.3}แผนผังที่แสดงถึงระยะห่างของสนามบินกับเมือง}{7}
+\contentsline {section}{\numberline {2.4}หลักฐานแสดงกรรมสิทธิ์ หรือสิทธิครอบครอง หรือสิทธิใช้ประโยชน์ของที่ดิน ที่สนามบินตั้งอยู่}{8}
+\contentsline {chapter}{\numberline {3}ข้อมูลสนามบินรายงานต่อฝ่ายข่าวสารการบิน \\ Aerodrome Data for AIS Report}{11}
+\contentsline {section}{\numberline {3.1}ข้อมูลทั่วไป (General Information)}{11}
+\contentsline {section}{\numberline {3.2}มิติและข้อมูลที่เกี่ยวข้องกับสนามบิน (Aerodrome Dimensions and Related Information)}{12}
+\contentsline {subsection}{\numberline {3.2.1}ทิศจริง และหมายเลขทางวิ่งที่กาหนด ความกว้าง ความยาว ตำแหน่งของหัวทางวิ่งที่เลื่อนไป (Displaced Threshold Runway 10) ความลาดชัน ลักษณะของพื้นผิวและประเภทของทางวิ่ง}{12}
+\contentsline {subsection}{\numberline {3.2.2}ความกว้าง ความยาว และลักษณะของพื้นผิวของพื้นที่ปลอดภัยรอบทางวิ่ง(Runway Strips) พื้นที่ปลอดภัยปลายทางวิ่ง (Runway End Safety Areas) รวมทั้งของทางหยุด (Stop ways)}{13}
+\contentsline {subsection}{\numberline {3.2.3}ความกว้าง ความยาว และลักษณะของพื้นผิวของทางขับ}{13}
+\contentsline {subsection}{\numberline {3.2.4}ลักษณะของพื้นผิวลานจอด และหลุมจอดอากาศยาน}{13}
+\contentsline {subsection}{\numberline {3.2.5}ความกว้าง ความยาว และระดับสูงตำตามแนวยาวของพื้นที่ปลอดสิ่งกีดขวาง (Clearway)}{15}
+\contentsline {subsection}{\numberline {3.2.6}เครื่องช่วยอานวยความสะดวกในการเดินอากาศประเภททัศนวิสัยสาหรับการบินเข้าสู่สนามบินด้วยสายตา (Visual Aids for Approach Procedures)}{15}
+\contentsline {subsection}{\numberline {3.2.7}ตำแหน่งและความถี่วิทยุของจุดตรวจสอบคลื่นวิทยุวีโออาร์ (Very High Frequency Aerodrome Checkpoints)}{15}
+\contentsline {subsection}{\numberline {3.2.8}ตำแหน่งและการกำหนดเส้นทางมาตรฐานในการขับเคลื่อน (Standard Taxi Routes)}{15}
+\contentsline {subsection}{\numberline {3.2.9}พิกัดทางภูมิศาสตร์ของหัวทางวิ่งแต่ละด้าน}{15}
+\contentsline {subsection}{\numberline {3.2.10}พิกัดทางภูมิศาสตร์ของจุดกึ่งกลางทางขับที่เหมาะสม}{16}
+\contentsline {subsection}{\numberline {3.2.11}พิกัดทางภูมิศาสตร์ของหลุมจอดอากาศยานแต่ละหลุม}{16}
+\contentsline {subsection}{\numberline {3.2.12}พิกัดทางภูมิศาสตร์และระดับความสูงสุดของสิ่งกีดขวางที่มีผลกระทบต่อการบินในพื้นที่บินเข้าสู่สนามบินและการวิ่งขึ้น ในพื้นที่บินวนและในบริเวณข้างเคียงสนามบิน}{16}
+\contentsline {subsection}{\numberline {3.2.13}ประเภทของผิวพื้นจราจร และการรับน้ำหนักของผิวพื้นจราจร}{17}
+\contentsline {subsection}{\numberline {3.2.14}ที่ตั้งของจุดตรวจสอบเครื่องวัดความสูงของอากาศยาน (Altimeter)}{17}
+\contentsline {subsection}{\numberline {3.2.15}ความยาว TORA TODA ASDA และ LDA}{17}
+\contentsline {subsection}{\numberline {3.2.16}แผนการเคลื่อนย้ายอากาศยานขัดข้องและข้อมูลเกี่ยวกับความสามารถในการเคลื่อนย้ายอากาศยานขัดข้อง}{18}
+\contentsline {subsection}{\numberline {3.2.17}การกู้ภัยและดับเพลิง (Rescue and Fire Fighting)}{18}
+\contentsline {chapter}{\numberline {4}ข้อมูลเกี่ยวกับแผนการจัดการสนามบินส่วนบุคคล}{19}
+\contentsline {section}{\numberline {4.1}แผนควบคุมตรวจสอบด้านความปลอดภัย (Aerodrome Safety Program)}{19}
+\contentsline {subsection}{\numberline {4.1.1}การตรวจพินิจพื้นที่เคลื่อนไหว (Aerodrome Inspection)}{19}
+\contentsline {subsubsection}{รายละเอียดการดำเนินการตรวจพินิจต่างๆ}{19}
+\contentsline {subsubsection}{การเก็บรักษาสมุดปูมการตรวจพินิจและสถานที่เก็บสมุดปูม}{20}
+\contentsline {subsubsection}{รายละเอียดของรอบและระยะเวลาการตรวจพินิจ}{20}
+\contentsline {subsubsection}{บัญชีรายการตรวจพินิจ}{21}
+\contentsline {subsubsection}{การจัดทำรายงานผลการตรวจพินิจ และการติดตามผล}{21}
+\contentsline {subsubsection}{ชื่อและตำแหน่งผู้มีหน้าที่รับผิดชอบการตรวจพินิจ }{21}
+\contentsline {subsection}{\numberline {4.1.2}แบบฟอร์ม KNP-Form-01 รายงานการตรวจพินิจพื้นที่เคลื่อนไหว}{22}
+\contentsline {section}{\numberline {4.2}การตรวจพินิจเครื่องช่วยทัศนวิสัย (Aerodrome Visual Aids)}{23}
+\contentsline {subsection}{\numberline {4.2.1}รายละเอียดการดำเนินการตรวจพินิจเครื่องช่วยทัศนวิสัย}{23}
+\contentsline {subsection}{\numberline {4.2.2}การจัดการเพื่อดำเนินการตรวจพินิจเครื่องช่วยทัศนวิสัยรายการตรวจระหว่างทำการและนอกเวลาทำการปกติ และบัญชีรายการตรวจพินิจ}{24}
+\contentsline {subsection}{\numberline {4.2.3}การจัดการ}{24}
+\contentsline {subsubsection}{บัญชีรายการตรวจพินิจ}{24}
+\contentsline {subsection}{\numberline {4.2.4}การจัดทำรายงานผลตรวจพินิจและการติดตามผลเพื่อการแก้ไข}{24}
+\contentsline {subsection}{\numberline {4.2.5}การจัดการเพื่อดำเนินการบำรุงรักษาประจำและการบำรุงรักษาฉุกเฉิน}{24}
+\contentsline {subsection}{\numberline {4.2.6}การจัดการเกี่ยวกับเครื่องกำเนิดไฟฟ้าสำรอง และรายละเอียดของวิธีการอื่นๆที่ใช้จัดการในกรณีที่ระบบไฟฟ้าขัดข้องทั้งหมดหรือบางส่วน}{25}
+\contentsline {subsection}{\numberline {4.2.7}ชื่อและตำแหน่งผู้มีหน้าที่รับผิดชอบการตรวจพินิจและดำเนินการบำรุงรักษาไฟฟ้า และหมายเลขโทรศัพท์ของผู้มีหน้าที่รับผิดชอบระหว่างเวลาทำการและนอกเวลาทำการของสนามบิน}{25}
+\contentsline {subsubsection}{ระหว่างเวลาทำการ (During Office Hours)}{25}
+\contentsline {subsubsection}{นอกเวลาทำการ (Outside office hours)}{25}
+\contentsline {section}{\numberline {4.3}การบำรุงรักษาพื้นที่เคลื่อนไหว (Movement Area Maintenance)}{25}
+\contentsline {subsection}{\numberline {4.3.1}รายละเอียดของสิ่งอำนวยความสะดวกและวิธีการดำเนินงานเพื่อบำรุงรักษาพื้นที่เคลื่อนไหว}{26}
+\contentsline {subsection}{\numberline {4.3.2}การบำรุงรักษาพื้นที่ที่มีผิวทาง (Paved Area)}{26}
+\contentsline {subsection}{\numberline {4.3.3}การบำรุงรักษาพื้นที่ที่ไม่มีผิวทาง (Unpaved Area)}{26}
+\contentsline {subsection}{\numberline {4.3.4}การบำรุงรักษาพื้นที่ปลอดภัยรอบทางวิ่ง (Runway Strip) และปลอดภัยรอบทางขับ (Taxiway Strip)}{27}
+\contentsline {subsection}{\numberline {4.3.5}การบำรุงรักษาระบบระบายน้ำของสนามบิน}{27}
+\contentsline {subsection}{\numberline {4.3.6}ชื่อและตำแหน่งผู้มีหน้าที่รับผิดชอบการบำรุงรักษาพื้นที่เคลื่อนไหว และหมายเลขโทรศัพท์ของผู้มีหน้าที่รับผิดชอบระหว่างเวลาทำการและนอกเวลาทำการของสนามบิน}{27}
+\contentsline {subsubsection}{ระหว่างเวลาทำการ Office Hours}{27}
+\contentsline {subsubsection}{นอกเวลาทำการ Outside office hours}{28}
+\contentsline {section}{\numberline {4.4}การควบคุมสิ่งกีดขวาง (Obstacle Control)}{28}
+\contentsline {subsection}{\numberline {4.4.1}รายละเอียดวิธีดำเนินการควบคุมสิ่งกีดขวาง}{28}
+\contentsline {subsection}{\numberline {4.4.2}การเฝ้าระวังสิ่งกีดขวางในระนาบจำกัดสิ่งกีดขวาง และในระนาบการวิ่งขึ้นของ อากาศยาน}{28}
+\contentsline {subsection}{\numberline {4.4.3}การควบคุมสิ่งกีดขวางตามอำนาจหน้าที่ของเจ้าของหรือผู้ดำเนินงานสนามบิน}{28}
+\contentsline {subsection}{\numberline {4.4.4}การเฝ้าระวังความสูงของอาคารหรือสิ่งก่อสร้างในพื้นที่โดยรอบระนาบจำกัดสิ่งกีดขวาง}{29}
+\contentsline {subsection}{\numberline {4.4.5}การแจ้งสำนักงานเกี่ยวกับสภาพและที่ตั้งของสิ่งกีดขวาง และการเคลื่อนย้ายหรือการต่อเติมใดๆ ที่เกิดขึ้นภายหลังที่เห็นว่าจำเป็น}{29}
+\contentsline {section}{\numberline {4.5}แผนการบริหารจัดการอันตรายที่เกิดจากสัตว์ (Wildlife Hazard Management Program)}{30}
+\contentsline {subsection}{\numberline {4.5.1}การจัดการเพื่อประเมินอันตรายจากสัตว์}{30}
+\contentsline {subsection}{\numberline {4.5.2}การจัดการเพื่อปฏิบัติให้เป็นไปตามแผนงานควบคุมสัตว์}{30}
+\contentsline {subsection}{\numberline {4.5.3}ชื่อและตำแหน่งของผู้ที่มีหน้าที่รับผิดชอบเกี่ยวกับอันตรายที่เกิดจากสัตว์ และหมายเลขโทรศัพท์ของบุคคลที่มีหน้าที่รับผิดชอบในระหว่างเวลาทำการและนอกเวลาทำการของสนามบิน}{31}
+\contentsline {subsubsection}{ระหว่างเวลาทำการ (During Office Hours)}{31}
+\contentsline {subsubsection}{นอกเวลาทำการ (Outside office hours)}{31}
+\contentsline {section}{\numberline {4.6}แผนการรักษาความปลอดภัยสนามบินส่วนบุคคล (Aerodrome Security Program)}{31}
+\contentsline {subsection}{\numberline {4.6.1}วัตถุประสงค์ของแผนรักษาความปลอดภัย}{31}
+\contentsline {subsection}{\numberline {4.6.2}การคัดกรองบุคลากรและการฝึกอบรมของบุคลากร}{32}
+\contentsline {subsection}{\numberline {4.6.3}การเข้าพื้นที่เคลื่อนไหวของสนามบิน (Access to Aerodrome Movement Area)}{32}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {\leavevmode {\color {red}เขตพื้นที่หวงห้าม}}}\mathsurround \z@ $\relax }{32}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {\leavevmode {\color {red}ควบคุมการเข้า - ออก}}}\mathsurround \z@ $\relax }{32}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {\leavevmode {\color {red}บุคลากรผู้รับผิดชอบในการปฏิบัติหน้าที่รักษาความปลอดภัย}}}\mathsurround \z@ $\relax }{32}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {\leavevmode {\color {red}แผนเผชิญเหตุ (Contingency Plan)}}}\mathsurround \z@ $\relax }{33}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {\leavevmode {\color {red}การประเมินความเสี่ยง (Risk Assessment) ของภัยคุกคามที่อาจเกิดขึ้น}}}\mathsurround \z@ $\relax }{33}
+\contentsline {section}{\numberline {4.7}แผนการดำเนินงานในการบริหารจัดการอากาศยานที่ทำการบินขึ้น-ลง (Flight Operation Procedure Program)}{34}
+\contentsline {subsection}{\numberline {4.7.1}การจัดการเที่ยวบิน (Flight handling)}{34}
+\contentsline {subsection}{\numberline {4.7.2}การสังเกตสภาพอากาศ (Weather observation)}{34}
+\contentsline {subsection}{\numberline {4.7.3}การสื่อสารเที่ยวบิน (Flight communication)}{34}
+\contentsline {subsection}{\numberline {4.7.4}เที่ยวบินขาเข้า (Flight arrival) }{34}
+\contentsline {subsection}{\numberline {4.7.5}เที่ยวบินขาออก (Flight departure)}{35}
+\contentsline {subsection}{\numberline {4.7.6}ระเบียบการดำเนินงานในสนามบิน (Aerodrome rule)}{35}
+\contentsline {subsubsection}{ระเบียบการปฏิบัติการบินทั่วไป (General flight operation rules)}{35}
+\contentsline {subsubsection}{ระเบียบการขับเคลื่อน (Taxiing rules)}{36}
+\contentsline {subsubsection}{ระเบียบการจราจรทางอากาศที่สนามบิน (Airport traffic rules)}{36}
+\contentsline {subsection}{\numberline {4.7.7}การจัดการผู้โดยสารและสินค้าบรรทุก (Passenger and cargo handling)}{36}
+\contentsline {section}{\numberline {4.8}แผนฉุกเฉินของสนามบินส่วนบุคคล (Aerodrome Emergency Program)}{37}
+\contentsline {subsection}{\numberline {4.8.1}รายละเอียดแผนรับมือเหตุฉุกเฉินที่เกิดขึ้น ณ สนามบิน}{37}
+\contentsline {subsubsection}{หน้าที่รับผิดชอบและการดำเนินงานของหน่วยงานที่เกี่ยวข้อง}{37}
+\contentsline {subsubsection}{\leavevmode {\color {red}อากาศยานประสบอุบัติเหตุในบริเวณสนามบิน}}{37}
+\contentsline {subsubsection}{\leavevmode {\color {red}อากาศยานประสบอุบัติเหตุบริเวณใกล้เคียง ภายนอกสนามบิน}}{37}
+\contentsline {subsubsection}{\leavevmode {\color {red}เพลิงไหม้ในบริเวณสนามบิน}}{38}
+\contentsline {subsubsection}{\leavevmode {\color {red}การกระทำโดยมิชอบด้วยกฎหมาย}}{38}
+\contentsline {subsection}{\numberline {4.8.2}รายละเอียดการทดสอบสิ่งอำนวยความสะดวก}{38}
+\contentsline {subsubsection}{สิ่งอำนวยความสะดวก และอุปกรณ์ที่ใช้ในเหตุการณ์ฉุกเฉิน}{38}
+\contentsline {subsubsection}{การทดสอบสิ่งอำนวยความสะดวก และอุปกรณ์}{39}
+\contentsline {subsubsection}{รายละเอียดการฝึกเพื่อทดสอบแผนฉุกเฉินและความถี่ของการฝึก}{39}
+\contentsline {subsubsection}{รายละเอียดชื่อองค์กร หน่วยงาน หรือเจ้าหน้าที่รับผิดชอบในที่เกิดเหตุ}{39}
+\contentsline {subsection}{\numberline {4.8.3}รายละเอียดการให้บริการปฐมพยาบาลหรือบริการทางการแพทย์อื่น}{39}
+\contentsline {subsubsection}{หน้าที่รับผิดชอบและการดำเนินงานของหน่วยงานที่เกี่ยวข้อง}{39}
+\contentsline {subsubsection}{สิ่งอำนวยความสะดวกและอุปกรณ์ที่จะใช้ในการให้บริการปฐมพยาบาลหรือบริการทางการแพทย์ และบุคลากรที่เกี่ยวข้อง}{39}
+\contentsline {subsubsection}{หน่วยงานทางการแพทย์ที่รับผิดชอบ}{40}
+\contentsline {chapter}{\numberline {5}ข้อมูลการบริหารสนามบิน Aerodrome administration}{41}
+\contentsline {section}{\numberline {5.1}แผนผังองค์กรของสนามบินขนงพระ}{41}
+\contentsline {section}{\numberline {5.2}บุคลากรรับผิดชอบด้านความปลอดภัยและด้านการรักษาความปลอดภัยของสนามบินขนงพระ}{42}
+\contentsline {section}{\numberline {5.3}คณะกรรมการต่าง ๆ ของสนามบิน (ถ้ามี)}{42}
+\contentsline {section}{\numberline {5.4}ข้อมูลอื่นๆ ที่เกี่ยวข้องกับการบริหารสนามบิน}{42}
+\contentsline {chapter}{\numberline {6}ผนวก ก.}{43}
+\contentsline {section}{\numberline {6.1}ใบอนุญาตที่ขึ้นลงชั่วคราวอากาศยานขนงพระ}{43}
+\contentsline {chapter}{\numberline {7}ผนวก ข. \\ เอกสารสิทธิ์และหนังสือยินยอมให้ใช้ประโยชน์ที่ดินที่ตั้งสนามบินขนงพระ}{47}
+\contentsline {section}{\numberline {7.1}เอกสารสิทธิ์และหนังสือยินยอมให้ใช้ประโยชน์ที่ดินจาก บริษัท เจริญคีรี จำกัด}{47}
+\contentsline {section}{\numberline {7.2}เอกสารสิทธิ์และหนังสือยินยอมให้ใช้ประโยชน์ที่ดินจาก บริษัท กอล์ฟเขาใหญ่ จำกัด}{74}
+\contentsline {chapter}{\numberline {8}ผนวก ค.}{91}
+\contentsline {section}{\numberline {8.1}รายงานการสำรวจสนามบินส่วนบุคคลขนงพระ}{91}
+\contentsline {section}{\numberline {8.2}สำเนาใบอนุญาตประกอบวิชาชีพวิศวกรรม ของผู้ควบคุมงานการสำรวจสนามบินขนงพระ}{140}
+\contentsline {chapter}{\numberline {9}ผนวก ง.}{143}
+\contentsline {section}{\numberline {9.1}ข้อมูลรายละเอียด Runway ของสนามบินส่วนบุคคลขนงพระ}{143}
+\contentsline {section}{\numberline {9.2}ข้อมูลรายละเอียดการออกแบบสนามบินส่วนบุคคลขนงพระ}{163}
+\contentsline {chapter}{\numberline {10}ผนวก จ. }{177}
+\contentsline {section}{\numberline {10.1}แบบฟอร์ม KNP-Form-01 รายงานการตรวจพินิจพื้นที่เคลื่อนไหว}{177}
+\contentsline {chapter}{\numberline {11}ผนวก ฉ.}{179}
+\contentsline {section}{\numberline {11.1}แบบฟอร์ม Bird Strike Report Form ของ สำนักงานการบินพลเรือนแห่งประเทศไทย}{179}
